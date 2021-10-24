@@ -12,12 +12,9 @@ Wassname's steps:
 4. Reload the page. When it breaks, paste in the console "g_userLevel=2" and hit enter.
 5. unpause. You will need to do this every time it breaks.
 6. Go to Management>Device Management>"Backup and restore settings".
-
 7. Place the newly downloaded 'downloadconfigfile.conf' in an accessible directory.
-
-solutionz's steps:
 8. Install Python (x64): https://www.python.org/ftp/python/2.6.6/python-2.6.6.amd64.msi
-9.  Install Pycrypto (x64): http://www.voidspace.org.uk/downloads/pycrypto26/pycrypto-2.6.win-amd64-py2.6.exe
+9. Install Pycrypto (x64): http://www.voidspace.org.uk/downloads/pycrypto26/pycrypto-2.6.win-amd64-py2.6.exe
 10.  Download "hg635_configtool.py":
 11.  Put hg635_configtool.py in the same directory as downloadconfigfile.conf
 12.  Open command prompt
